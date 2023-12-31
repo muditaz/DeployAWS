@@ -1,0 +1,14 @@
+{
+  "name": "deployaws",
+  "version": "1.0.0",
+  "description": "First ever deployment to AWS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mudit",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
